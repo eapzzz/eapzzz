@@ -1,0 +1,191 @@
+{
+  "version": 1,
+  "login": "eapzzz",
+  "seed": "#5C7CFF",
+  "seedFromAvatar": false,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "wave",
+    "projects",
+    "stats",
+    "streak",
+    "buttons"
+  ],
+  "hidden": [
+    "buttons"
+  ],
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "",
+    "subtitle": "I build Linux tools, smart automations and games.",
+    "typing": true,
+    "avatarShape": "cookie12",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "KRK / Poland"
+      },
+      {
+        "icon": "code",
+        "label": "TypeScript · Python"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "school",
+        "label": "Programming student & software developer"
+      },
+      {
+        "icon": "stadia_controller",
+        "label": "Game development with Godot"
+      },
+      {
+        "icon": "terminal",
+        "label": "Linux enthusiast"
+      },
+      {
+        "icon": "host",
+        "label": "Self-hosting enjoyer"
+      },
+      {
+        "icon": "home",
+        "label": "Into smart homes"
+      },
+      {
+        "icon": "palette",
+        "label": "Material Design 3 Lover"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:rust",
+            "label": "Rust"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "brand:godotengine",
+            "label": "GDScript"
+          },
+          {
+            "icon": "brand:gnubash",
+            "label": "Bash"
+          },
+          {
+            "icon": "brand:typescript",
+            "label": "TypeScript"
+          },
+          {
+            "icon": "brand:php",
+            "label": "PHP"
+          },
+          {
+            "icon": "brand:mysql",
+            "label": "MySQL"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:docker",
+            "label": "Docker"
+          },
+          {
+            "icon": "brand:homeassistant",
+            "label": "Home Assistant"
+          },
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "still",
+      "Daybreak",
+      "dots-switcher",
+      "AARPG",
+      "ha-context",
+      "pz-linux-case-fix"
+    ],
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:steam",
+        "url": "https://steamcommunity.com/id/eapz/"
+      },
+      {
+        "icon": "brand:discord",
+        "url": "https://discordapp.com/users/850119508529512459"
+      },
+      {
+        "icon": "brand:spotify",
+        "url": "https://open.spotify.com/user/aod5pgefn3n05urfc4dm3pc4r?si=I0OwyJ-SSoqfAyVKas_ZVg&utm_source=copy-link"
+      }
+    ],
+    "variant": "chip",
+    "fill": "brand",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "My website",
+        "url": "https://example.com",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "",
+        "style": "tonal"
+      }
+    ],
+    "card": false
+  }
+}

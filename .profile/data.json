@@ -1,13 +1,13 @@
 {
- "key": "f4a1b8a6",
+ "key": "9f3f8a73",
  "stars": 11,
- "contributions": 771,
+ "contributions": 785,
  "repos": 14,
  "followers": 1,
  "languages": [
   [
    "Python",
-   1214680
+   1316009
   ],
   [
    "GDScript",
@@ -19,11 +19,11 @@
   ],
   [
    "HTML",
-   48683
+   62380
   ],
   [
    "JavaScript",
-   12073
+   21852
   ],
   [
    "GDShader",
@@ -141,7 +141,7 @@
     "today": false
    },
    {
-    "c": 8,
+    "c": 22,
     "day": 24,
     "today": true
    }
@@ -166,33 +166,6 @@
     "system-monitor",
     "wayland"
    ]
-  },
-  {
-   "name": "dots-switcher",
-   "url": "https://github.com/eapzzz/dots-switcher",
-   "text": "Feature-rich Hyprland dotfiles switcher.",
-   "fork": false,
-   "stars": 0,
-   "language": null,
-   "topics": []
-  },
-  {
-   "name": "Daybreak",
-   "url": "https://github.com/eapzzz/Daybreak",
-   "text": "",
-   "fork": false,
-   "stars": 1,
-   "language": "Python",
-   "topics": []
-  },
-  {
-   "name": "AARPG",
-   "url": "https://github.com/eapzzz/AARPG",
-   "text": "",
-   "fork": false,
-   "stars": 1,
-   "language": "GDScript",
-   "topics": []
   }
  ],
  "all": [

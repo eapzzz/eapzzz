@@ -1,0 +1,320 @@
+{
+ "key": "7a19fdc0",
+ "stars": 11,
+ "contributions": 771,
+ "repos": 14,
+ "followers": 1,
+ "languages": [
+  [
+   "Python",
+   396322
+  ],
+  [
+   "Rust",
+   108292
+  ],
+  [
+   "GDScript",
+   106787
+  ],
+  [
+   "GDShader",
+   846
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 10,
+    "day": 7,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 6,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 8,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 8,
+    "day": 24,
+    "today": true
+   }
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 7
+ },
+ "pins": [
+  {
+   "name": "still",
+   "url": "https://github.com/eapzzz/still",
+   "text": "A quiet, capable native Linux system monitor. RAM, CPU, GPU, storage and network, in one clear view.",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": [
+    "egui",
+    "linux",
+    "rust",
+    "system-monitor",
+    "wayland"
+   ]
+  },
+  {
+   "name": "dots-switcher",
+   "url": "https://github.com/eapzzz/dots-switcher",
+   "text": "Feature-rich Hyprland dotfiles switcher.",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Daybreak",
+   "url": "https://github.com/eapzzz/Daybreak",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "AARPG",
+   "url": "https://github.com/eapzzz/AARPG",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "GDScript",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "ha-context",
+   "url": "https://github.com/eapzzz/ha-context",
+   "text": "A tool for exporting all HomeAsisstant config possible, for AI chatbots to easily create scripts with context!",
+   "fork": false,
+   "stars": 3,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "Minecraft-Python-Autoclicker",
+   "url": "https://github.com/eapzzz/Minecraft-Python-Autoclicker",
+   "text": "",
+   "fork": false,
+   "stars": 2,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "Daybreak",
+   "url": "https://github.com/eapzzz/Daybreak",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "pz-linux-case-fix",
+   "url": "https://github.com/eapzzz/pz-linux-case-fix",
+   "text": "Fixes Project Zomboid B42 mods failing to load on Linux due to file-name case sensitivity",
+   "fork": false,
+   "stars": 1,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "AARPG",
+   "url": "https://github.com/eapzzz/AARPG",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "GDScript",
+   "topics": []
+  },
+  {
+   "name": "GodotValley",
+   "url": "https://github.com/eapzzz/GodotValley",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "GDScript",
+   "topics": []
+  },
+  {
+   "name": "Metroid",
+   "url": "https://github.com/eapzzz/Metroid",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "GDScript",
+   "topics": []
+  },
+  {
+   "name": "Frogger",
+   "url": "https://github.com/eapzzz/Frogger",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "GDScript",
+   "topics": []
+  },
+  {
+   "name": "sprawdzian-webowe",
+   "url": "https://github.com/eapzzz/sprawdzian-webowe",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "dots-switcher",
+   "url": "https://github.com/eapzzz/dots-switcher",
+   "text": "Feature-rich Hyprland dotfiles switcher.",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "still",
+   "url": "https://github.com/eapzzz/still",
+   "text": "A quiet, capable native Linux system monitor. RAM, CPU, GPU, storage and network, in one clear view.",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": [
+    "egui",
+    "linux",
+    "rust",
+    "system-monitor",
+    "wayland"
+   ]
+  },
+  {
+   "name": "eapzzz",
+   "url": "https://github.com/eapzzz/eapzzz",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Vampire-Survivors-Like",
+   "url": "https://github.com/eapzzz/Vampire-Survivors-Like",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "GDScript",
+   "topics": []
+  },
+  {
+   "name": "Dodge-The-Creeps",
+   "url": "https://github.com/eapzzz/Dodge-The-Creeps",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "GDScript",
+   "topics": []
+  }
+ ]
+}

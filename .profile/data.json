@@ -1,5 +1,5 @@
 {
- "key": "7a19fdc0",
+ "key": "f4a1b8a6",
  "stars": 11,
  "contributions": 771,
  "repos": 14,
@@ -7,19 +7,31 @@
  "languages": [
   [
    "Python",
-   396322
+   1214680
+  ],
+  [
+   "GDScript",
+   111910
   ],
   [
    "Rust",
    108292
   ],
   [
-   "GDScript",
-   106787
+   "HTML",
+   48683
+  ],
+  [
+   "JavaScript",
+   12073
   ],
   [
    "GDShader",
    846
+  ],
+  [
+   "Lua",
+   287
   ]
  ],
  "days": [

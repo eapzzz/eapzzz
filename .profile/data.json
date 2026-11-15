@@ -1,5 +1,5 @@
 {
- "key": "3a9ab7c3",
+ "key": "529f4542",
  "stars": 11,
  "contributions": 955,
  "repos": 15,
@@ -35,43 +35,6 @@
   ]
  ],
  "days": [
-  [
-   {
-    "c": 14,
-    "day": 25,
-    "today": false
-   },
-   {
-    "c": 27,
-    "day": 26,
-    "today": false
-   },
-   {
-    "c": 10,
-    "day": 27,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 28,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 29,
-    "today": false
-   },
-   {
-    "c": 4,
-    "day": 30,
-    "today": false
-   },
-   {
-    "c": 4,
-    "day": 31,
-    "today": false
-   }
-  ],
   [
    {
     "c": 2,
@@ -143,12 +106,25 @@
    {
     "c": 0,
     "day": 14,
-    "today": true
+    "today": false
    }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 15,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
   ]
  ],
  "streak": {
-  "current": 2,
+  "current": 0,
   "longest": 8
  },
  "pins": [
